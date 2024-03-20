@@ -1,6 +1,6 @@
 # test_repo
 
 ---
-Test repository
+*Test repository*
 ***
 
