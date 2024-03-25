@@ -3,3 +3,4 @@
 Touched by sub-id
 
 print("Hello")
+print("안녕하세요! 같은 조 최용준 입니다.")
