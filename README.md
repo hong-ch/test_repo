@@ -1,7 +1,7 @@
 # test_repo
 
 ---
-*I'm a Potato*
+This is test repository for my Open Source lab class 
 ***
 
 
