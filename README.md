@@ -1,7 +1,7 @@
 # test_repo
 
 ---
-This is test repository for my Open Source lab class 
+This is a test repository for my Open Source lab class 
 ***
 
 
